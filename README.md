@@ -23,6 +23,10 @@ The primary goal is to develop a robust software system that reduces the manual 
 - **Show Schedules:** Maintain and update show schedules efficiently.
 
 ## Technology Stack
-- **Backend:** Spring Boot
+- **Backend:** Java Spring Boot, Spring Data JPA, Spring Security
 - **Database:** MySQL
-- **Frontend:** RESTful APIs for frontend integration
+- **Frontend:** CSS, JavaScript, JSP
+- **Build Tool:** Maven
+- **Code Editor and tools:** Eclipse IDE
+- **Server:**  Apache Tomcat
+
